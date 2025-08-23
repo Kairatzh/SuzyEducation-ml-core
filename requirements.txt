@@ -1,0 +1,14 @@
+#main dep
+langchain
+langchain_community
+langchain_together
+langgraph
+
+#prod dep
+uvicorn
+pydantic
+fastapi
+
+#ПРОЧЕЕ dep
+python-dotenv
+pyyaml
